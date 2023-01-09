@@ -1,5 +1,5 @@
 # About me
-
+:man_technologist:
 I am a software developer with experience in a variety of programming languages and technologies. 
 My primary focus is on web development, using languages such as Python, JavaScript, 
 and Node.js to build scalable and efficient applications. 
