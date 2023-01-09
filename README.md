@@ -7,3 +7,4 @@ I also have experience with lower-level languages such as C, and am proficient i
 In my work, I strive to write clean, maintainable code and am always looking for ways to improve my skills and knowledge.
 
 ## :computer: Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
