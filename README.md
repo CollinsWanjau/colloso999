@@ -14,4 +14,5 @@ In my work, I strive to write clean, maintainable code and am always looking for
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colloso999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/dd3378e2-d620-4ea2-ba76-f8b8f615419f.svg)](https://wakatime.com/@dd3378e2-d620-4ea2-ba76-f8b8f615419f)
 <!--END_SECTION:waka-->
